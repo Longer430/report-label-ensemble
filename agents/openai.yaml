@@ -1,0 +1,4 @@
+interface:
+  display_name: "报告标签融合"
+  short_description: "从多来源医学报告提取候选标签，进行可追溯融合与公平训练对照验证"
+  default_prompt: "使用 $report-label-ensemble 检查我的报告或标签来源，明确评分与缺失规则，生成可追溯的候选融合方案，并按授权范围验证。"

@@ -1,0 +1,17 @@
+.env
+.env.*
+LOCAL_OVERLAY.md
+__pycache__/
+*.pyc
+.venv/
+runs/
+outputs/
+data/
+*.csv
+*.jsonl
+*.dcm
+*.zip
+*.pt
+*.pth
+credentials.json
+kaggle.json
