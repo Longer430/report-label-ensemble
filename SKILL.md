@@ -16,6 +16,8 @@ Turn report text or existing source label tables into traceable research candida
 
 Do only the requested stages. A request to create labels does not automatically request training, and installing this skill does not request medical data transmission.
 
+For a concrete example using an existing RSNA Knee v5 table, read [the worked example](references/rsna-v5-worked-example.md). It separates actual dataset facts and completed experiment metrics from synthetic teaching rows. Recheck the current inputs rather than inheriting its split or assuming its results will repeat.
+
 ## Establish the contract
 
 Inspect project instructions, the selected manifest, label order, supervision loader, and source schemas. Record in a new run manifest:

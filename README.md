@@ -51,6 +51,8 @@ confidence = 1 - abs(P - S)
 
 ## 文件导航
 
+完整实例：[RSNA Knee v5 标签检查、导入、公式演示与实际训练对比](references/rsna-v5-worked-example.md)。包括真实实验汇总及明确标注的虚构字段示例。
+
 | 文件 | 内容 |
 |---|---|
 | [SKILL.md](SKILL.md) | 技能入口和流程 |
