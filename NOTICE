@@ -1,0 +1,20 @@
+Report Label Ensemble
+Copyright (c) 2026 Longer430.
+
+This notice covers the original skill documentation and configuration in this
+repository. Third-party datasets, discussions, code and other referenced
+materials remain subject to their respective owners' rights and license terms.
+No ownership of the referenced methods or third-party materials is claimed.
+
+Source acknowledgments:
+- yunusgmsoy: RSNA Knee merged-label and Gemini datasets.
+  https://www.kaggle.com/datasets/yunusgmsoy/rsna-knee-llm-labels-4-source-merged
+- StevenLeeHans (stevenleehans): report-label datasets and methodology discussion.
+  https://www.kaggle.com/datasets/stevenleehans/rsna-knee-llm-report-labels
+  https://www.kaggle.com/competitions/rsna-knee-abnormality-detection/discussion/733932
+- Pilkwang (pilkwang): public report-label dataset and accompanying code.
+  https://www.kaggle.com/datasets/pilkwang/rsna-knee-llm-labels
+
+The repository describes a numerically reconstructed predecessor policy and
+an independently declared fusion policy. It does not claim to reproduce the
+complete unpublished v5 algorithm or to be endorsed by the source authors.
